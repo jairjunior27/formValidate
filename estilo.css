@@ -80,6 +80,13 @@ input{
     opacity: 1;
 }
 
+
+.error{
+    padding: 2px 5px;
+    background-color: #ff0000;
+    border-radius: 3px;
+}
+
 @media(max-width:930px){
     .firstForm{
         flex:1 ;
